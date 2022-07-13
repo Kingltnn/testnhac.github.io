@@ -30,7 +30,7 @@ $(function()
         name: "Infinity",
         url: "Musics/Infinity.mp3",
         picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
-    }
+    },
     {
         artist: "king",
         name: "tội tình",
